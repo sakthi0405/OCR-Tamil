@@ -45,4 +45,5 @@
     <string name="close">Close</string>
     <string name="conversion_complete">Conversion completed...</string>
     <string name="converting">Converting...</string>
+    <string name="terms_amp_conditions"><![CDATA[Terms & Conditions]]></string>
 </resources>
